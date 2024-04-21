@@ -1,0 +1,34 @@
+﻿/* FetchContacts.css */
+
+.input-wrapper {
+    display: table;
+    width: 100%;
+    padding-bottom: 15px;
+}
+
+.edit-title {
+    padding-top: 15px;
+}
+
+.edit-field-contact {
+    display: table-row;
+}
+
+.edit-label-contact {
+    display: table-cell;
+    padding-right: 10px; /* Adjust padding as needed */
+}
+
+.edit-field-contact input {
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+.save-button {
+    display: table-row;
+}
+
+.error-message {
+    color: red;
+    padding-left: 10px;
+}

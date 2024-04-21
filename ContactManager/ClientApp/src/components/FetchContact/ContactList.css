@@ -1,0 +1,18 @@
+/* ContactList.css */
+
+.contact-list {
+    margin-top: 20px;
+}
+
+.contact-item {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+}
+
+.contact-item:last-child {
+    border-bottom: none;
+}
+
+.contact-item:hover {
+    background-color: #f0f0f0;
+}
